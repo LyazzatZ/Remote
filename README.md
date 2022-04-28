@@ -1,3 +1,3 @@
-Work with remoted repositories
+Work with remoted repositories  
 
 Remote repository
